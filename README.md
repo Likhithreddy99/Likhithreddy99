@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Dodda Likhith Reddy! 👋</h1>
+  <h1>Hi there, I'm Likhith Reddy! 👋</h1>
   <h3>Final Year B.Tech CSE Student @ SRM Institute of Science and Technology | Backend Developer</h3>
 </div>
 
