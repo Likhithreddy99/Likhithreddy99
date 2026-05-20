@@ -54,10 +54,3 @@
 
 ---
 
-### 🏆 Achievements & Certifications
-
-* Advanced to **Round 2 of the Smart India Hackathon 2025**.
-* Earned a **Top 5** placement at the National Level CODE-A-THON 2026.
-* Placed in the **Top 10** at the Texus '24 TechWiz Hackathon.
-* Secured a perfect **10.0 GPA** in both my 3rd and 4th semesters at SRM IST.
-* Certified in **Oracle Cloud Infrastructure Foundations Associate** and **Introduction to Machine Learning** (NPTEL).
