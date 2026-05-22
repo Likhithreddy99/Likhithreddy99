@@ -9,7 +9,7 @@
 
 * 🎓 I'm currently a **Final Year** B.Tech student in Computer Science and Engineering at SRM Institute of Science and Technology, Chennai.
 * 🚀 I currently maintain a CGPA of 9.65/10.0.
-* 💻 I specialize in building robust backend systems using Java, Spring Boot, JavaScript, Node.Js, Express.Js,MongoDB, PostgreSQL basically working with Springboot and Mern Based Systems. When I'm tackling Data Structures and Algorithms, C++ is my go-to language.
+* 💻 I specialize in building robust backend systems using Java, Spring Boot, JavaScript, Node.js, Express.js, MongoDB, and PostgreSQL. I primarily work with Spring Boot and MERN-based architectures. When I'm tackling Data Structures and Algorithms, C++ is my go-to language.
 * 🤝 I actively engage with my university community as a Technical Team Member of the TechPro Club.
 * 📫 How to reach me: **doddalikhithreddy@gmail.com**
 
@@ -30,10 +30,13 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
 **Backend Architecture:**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot&logoColor=black)
 
 **Databases:**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white)
@@ -50,7 +53,7 @@
 
 ### 🚀 Featured Projects
 
-* **DocuMind AI** * **Reelio Platform** * **CampNest Platform** * **VentureLink**
-
----
-
+* **DocuMind AI** 
+* **Reelio Platform** 
+* **CampNest Platform** 
+* **VentureLink**
