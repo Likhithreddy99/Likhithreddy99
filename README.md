@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 
 * 🎓 I'm currently a **Final Year** B.Tech student in Computer Science and Engineering at SRM Institute of Science and Technology, Chennai.
-* 🚀 I maintain academic excellence with a CGPA of 9.65/10.0.
+* 🚀 I currently maintain a CGPA of 9.65/10.0.
 * 💻 I specialize in building robust backend systems using Java, Spring Boot, and PostgreSQL. When I'm tackling Data Structures and Algorithms, C++ is my go-to language.
 * 🤝 I actively engage with my university community as a Technical Team Member of the TechPro Club.
 * 📫 How to reach me: **doddalikhithreddy@gmail.com**
