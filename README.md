@@ -53,7 +53,7 @@
 
 ### 🚀 Featured Projects
 
-* **DocuMind AI** 
 * **Reelio Platform** 
 * **CampNest Platform** 
 * **VentureLink**
+* **DocuMind AI** 
